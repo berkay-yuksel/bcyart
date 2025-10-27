@@ -1,5 +1,15 @@
 import React from 'react'
 
+
+
+export const picList = [
+
+];
+
+export const bannerList = [
+];
+
+
 export const droneList = [
     {
       id: 0,

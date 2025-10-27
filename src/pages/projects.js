@@ -10,8 +10,12 @@ function Projects({location}) {
 let pagetitle;
 let keys="default";
     let projectitems;
-    let mycomp=location.state ? location.state.comp : bannerList ;
-    let mydark=location.state ? location.state.dark.dark : true;
+let mycomp = typeof window !== 'undefined' && location?.state?.mycomp 
+  ? location.state.mycomp 
+  : 'default';
+    let mydark = typeof window !== 'undefined' && location?.state?.dark 
+  ? location.state.dark 
+  : false;
     switch(mycomp) {
         case "droneList":
             projectitems=droneList;
