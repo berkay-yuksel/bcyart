@@ -16,7 +16,7 @@ export const droneList = [
       title: "Bulunamadı",
 
     }
- 
+  ];
 
   export const videoContentList = [
    {
