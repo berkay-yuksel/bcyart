@@ -9,3 +9,14 @@ bcyart.net  developed by berkay yüksel
   <br>
  https://github.com/berkay-yuksel
 </h1>
+
+<h1 align="center">
+bcyart.net  developed by berkay yüksel
+  <br>
+https://bcyart.netlify.app/
+</h1>
+<h1 align="center">
+bcyart.net  developed by berkay yüksel
+  <br>
+bcyart2.netlify.app
+</h1>
